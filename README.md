@@ -18,9 +18,9 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-# Program to swap two values.
-# Developed by: JESU SMARTIA A
-# RegisterNumber: 23013932
+### Program to swap two values.
+### Developed by: JESU SMARTIA A
+### RegisterNumber: 23013932
 ```
 a=int(input())
 b=int(input())
